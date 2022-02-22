@@ -1,0 +1,22 @@
+{
+  "name": "pwa-instagram-like-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raphael-Ramalho/pwa-instagram-like-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raphael-Ramalho/pwa-instagram-like-app/issues"
+  },
+  "homepage": "https://github.com/Raphael-Ramalho/pwa-instagram-like-app#readme",
+  "devDependencies": {
+    "http-server": "14.1.0"
+  }
+}
